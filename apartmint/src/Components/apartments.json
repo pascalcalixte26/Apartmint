@@ -1,0 +1,136 @@
+[
+  {
+    "id": 1,
+    "location": "32 Clinton Street",
+    "image": "https://vignette.wikia.nocookie.net/spongebobgalaxy/images/0/07/SpongeBob_SquarePants.png/revision/latest?cb=20171228024014",
+    "unit": "4D",
+    "Property Managers": "Joniston Group",
+    "beds": "Studio",
+    "baths": "1 Full",
+    "price": "$1,200",
+    "Pets": "Yes"
+    
+  },
+  {
+    "id": 2,
+    "location": "235 Basey Avenue",
+    "image": "https://vignette.wikia.nocookie.net/spongebobgalaxy/images/0/07/SpongeBob_SquarePants.png/revision/latest?cb=20171228024014",
+    "unit": "2F",
+    "landlord": "Baker Realty",
+    "beds": "1 Bed",
+    "baths": "1 Full",
+    "price": "$1,800",
+    "Pets": "No"
+  },
+  {
+    "id": 3,
+    "location": "235 Basey Avenue",
+    "image": "https://vignette.wikia.nocookie.net/spongebobgalaxy/images/0/07/SpongeBob_SquarePants.png/revision/latest?cb=20171228024014",
+    "unit": "5B",
+    "landlord": "Baker Realty",
+    "beds": "Studio",
+    "baths": "1 Full",
+    "price": "$1,400",
+    "Pets": "No"
+  },
+  {
+    "id": 4,
+    "location": "32 Clinton Street",
+    "image": "https://vignette.wikia.nocookie.net/spongebobgalaxy/images/0/07/SpongeBob_SquarePants.png/revision/latest?cb=20171228024014",
+    "unit": "6C",
+    "landlord": "Joniston Group",
+    "beds": "2 Bed",
+    "baths": "1 Full",
+    "price": "$2,100",
+    "Pets": "Yes"
+  },
+  {
+    "id": 5,
+    "location": "1 Maple Lane",
+    "image": "https://vignette.wikia.nocookie.net/spongebobgalaxy/images/0/07/SpongeBob_SquarePants.png/revision/latest?cb=20171228024014",
+    "unit": "4E",
+    "landlord": "Willis Corp",
+    "beds": "2 Bed",
+    "baths": "1 Bath",
+    "price": "$2,000",
+    "Pets": "No"
+  },
+  {
+    "id": 6,
+    "location": "273 Chesley Avenue",
+    "image": "https://vignette.wikia.nocookie.net/spongebobgalaxy/images/0/07/SpongeBob_SquarePants.png/revision/latest?cb=20171228024014",
+    "unit": "1B",
+    "landlord": "Homes4U Management",
+    "beds": "1 Bed",
+    "baths": "1 Full",
+    "price": "$1,500",
+    "Pets": "Yes"
+  },
+  {
+    "id": 7,
+    "location": "124 West 8th Street",
+    "image": "https://vignette.wikia.nocookie.net/spongebobgalaxy/images/0/07/SpongeBob_SquarePants.png/revision/latest?cb=20171228024014",
+    "unit": "2A",
+    "landlord": "Kingston Sales",
+    "beds": "Studio",
+    "baths": "1 Full",
+    "price": "$1,400",
+    "Pets": "No"
+  },
+  {
+    "id": 8,
+    "location": "273 Chesley Avenue",
+    "image": "https://vignette.wikia.nocookie.net/spongebobgalaxy/images/0/07/SpongeBob_SquarePants.png/revision/latest?cb=20171228024014",
+    "unit": "3C",
+    "landlord": "Homes4U Management",
+    "beds": "1 Bed",
+    "baths": "1 Full",
+    "price": "$1,700",
+    "Pets": "Yes"
+  },
+  {
+    "id": 9,
+    "location": "1 Maple Lane",
+    "image": "https://vignette.wikia.nocookie.net/spongebobgalaxy/images/0/07/SpongeBob_SquarePants.png/revision/latest?cb=20171228024014",
+    "unit": "4G",
+    "landlord": "Willis Corp",
+    "beds": "2 Bed",
+    "baths": "2 Bath",
+    "price": "$2,300",
+    "Pets": "No"
+  },
+  {
+    "id": 10,
+    "location": "32 Clinton Street",
+    "image": "https://vignette.wikia.nocookie.net/spongebobgalaxy/images/0/07/SpongeBob_SquarePants.png/revision/latest?cb=20171228024014",
+    "unit": "5C",
+    "landlord": "Joniston Group",
+    "beds": "3 Bed",
+    "baths": "2 Full",
+    "price": "$3,000",
+    "Pets": "Yes"
+  },
+  {
+    "id": 11,
+    "location": "273 Chesley Avenue",
+    "image": "https://vignette.wikia.nocookie.net/spongebobgalaxy/images/0/07/SpongeBob_SquarePants.png/revision/latest?cb=20171228024014",
+    "unit": "1D",
+    "landlord": "Homes4U Management",
+    "beds": "Studio",
+    "baths": "1 Full",
+    "price": "$1,500",
+    "Pets": "Yes"
+  },
+  {
+    "id": 12,
+    "location": "124 West 8th Street",
+    "image": "https://vignette.wikia.nocookie.net/spongebobgalaxy/images/0/07/SpongeBob_SquarePants.png/revision/latest?cb=20171228024014",
+    "unit": "2C",
+    "landlord": "Kingston Sales",
+    "beds": "1 Bed",
+    "baths": "1 and Half",
+    "price": "$2,000",
+    "Pets": "No"
+
+  }
+]

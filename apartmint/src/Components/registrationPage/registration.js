@@ -1,11 +1,11 @@
 import React from "react";
 import { BrowserRouter as Router, Route, Link } from "react-router-dom";
 
-function Welcome() {
+function registration() {
     return (      
 
       <div> 
-            <h1>Welcome Page</h1>           
+            <h1>Registration Page</h1>           
           <ul>  
           <li><Link to={"/home"}>Home</Link></li>
           </ul>
@@ -14,4 +14,4 @@ function Welcome() {
     );
   }
   
-  export default Welcome;
+  export default registration;
